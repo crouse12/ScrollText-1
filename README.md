@@ -12,7 +12,7 @@ Date:   2018.Sept
 
 open your microbit makecode project, in Extension, paste  
 
-https://github.com/makecode-packages/ScrollText  
+https://github.com/crouse12/ScrollText-1  
 
 to search box then search.
 
