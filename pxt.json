@@ -2,7 +2,7 @@
     "name": "ScrollText",
     "version": "1.2.2",
     "description": "這是ScrollText的積木",
-    "icon": "./static/libs/tropic.png",
+    "icon": "icon.png",
     "license": "MIT",
     "dependencies": {
         "core": "*"
